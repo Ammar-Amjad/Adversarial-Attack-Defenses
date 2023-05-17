@@ -1,8 +1,8 @@
-Part1:
+## Part1:
 In terminal, run:
 python .\part1.py
 
-Part2:
+## Part2:
 In terminal, run:
 python .\part2.py
 
