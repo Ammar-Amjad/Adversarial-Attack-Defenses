@@ -6,5 +6,6 @@ python .\part1.py
 In terminal, run:
 python .\part2.py
 
+## Note:
 Change alpha value to control perturbation.
 Uncomment defense_predict_fn() to apply median filter.
