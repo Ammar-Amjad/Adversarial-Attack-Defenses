@@ -18,9 +18,13 @@ Future research will focus on analyzing ensemble models and certified robustness
 
 ## How to Run
 1. Clone the repository.
-2. Run the model training and testing script.
+2. Run the part1 code.
    ```
-   python model.py
+   python part1.py
+   ```
+3. Run the part2 code.
+   ```
+   python part1.py
    ```
 
 ## Dependencies
