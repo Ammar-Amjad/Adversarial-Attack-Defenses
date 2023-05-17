@@ -18,6 +18,7 @@ The [video presentation](https://drive.google.com/file/d/1tVLzJYMn-DYwJ1E2j3f7-i
 
 ## Results
 While all the defense strategies showed promise, there were trade-offs between model performance and robustness against adversarial examples. The most effective defense was found to be Median Filtering with a dual filter technique.
+Detailed experimental results and anlysis can be found in the [Report](https://github.com/Ammar-Amjad/Adversarial-Attack-Defenses/blob/main/Report.pdf).
 
 ## Future Research
 Future research will focus on analyzing ensemble models and certified robustness techniques, and extending investigations to tabular and text-based datasets.
