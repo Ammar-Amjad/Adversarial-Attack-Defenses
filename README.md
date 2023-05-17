@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive research on various defense techniques against adversarial attacks and Membership Inference Attacks (MIA) on machine learning models. The study utilizes the Fashion-MNIST dataset and a convolutional neural network (CNN) model to evaluate the effectiveness of each defense technique. 
 
-The video presentation can be found on [youtube](https://drive.google.com/file/d/1tVLzJYMn-DYwJ1E2j3f7-iJgjmv2-NED/view?usp=share_link).
+The video presentation can be found on [drive](https://drive.google.com/file/d/1tVLzJYMn-DYwJ1E2j3f7-iJgjmv2-NED/view?usp=share_link).
 
 ## Key Defense Techniques Studied
 1. Certified Robustness via Randomized Smoothing
