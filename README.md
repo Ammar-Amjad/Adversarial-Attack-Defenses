@@ -24,7 +24,7 @@ Future research will focus on analyzing ensemble models and certified robustness
    ```
 3. Run the part2 code.
    ```
-   python part1.py
+   python part2.py
    ```
 
 ## Dependencies
